@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="11px" viewBox="0 0 10 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>右下分支_split-turn-down-right</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="三方组织架构-人员多选/单选" transform="translate(-1001.000000, -1890.000000)" stroke="#BFBFBF" stroke-width="0.903529412">
+            <g id="5.反馈/3.Modal对话框/亮色/基本备份-5" transform="translate(768.000000, 1595.000000)">
+                <g id="编组备份-10" transform="translate(24.000000, 290.000000)">
+                    <g id="右下分支_split-turn-down-right" transform="translate(210.000000, 6.000000)">
+                        <path d="M1.12941176,4.29176471 L4.74352941,4.29176471 C5.74154541,4.29176471 6.55058824,5.10080753 6.55058824,6.09882353 L6.55058824,9.26117647" id="路径" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle id="椭圆形" transform="translate(1.129412, 1.342566) rotate(-90.000000) translate(-1.129412, -1.342566) " cx="1.12941176" cy="1.34256565" r="1.12941176"></circle>
+                        <line x1="1.12941176" y1="2.48470588" x2="1.12941176" y2="9.03529412" id="路径" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polyline id="路径" stroke-linecap="round" stroke-linejoin="round" points="2.25882353 8.13176471 1.12941176 9.26117647 0 8.13176471"></polyline>
+                        <polyline id="路径" stroke-linecap="round" stroke-linejoin="round" points="7.68 8.13176471 6.55058824 9.26117647 5.42117647 8.13176471"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
